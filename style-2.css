@@ -39,12 +39,7 @@ footer {
     border-right: 2px solid #aaa;
 }
 
-a:link {
-    text-decoration: underline;
-    color: #fff;
-}
-
-a:visited {
+a {
     text-decoration: underline;
     color: #fff;
 }
